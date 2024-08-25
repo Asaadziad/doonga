@@ -35,8 +35,12 @@ typedef struct Context_Extra {
 // This is a minimal starting point for new projects. Copy & rename to get started
 // #include "oogabooga/examples/minimal_game_loop.c"
 
+<<<<<<< HEAD
 #include "oogabooga/doonga/entry_doonga.c"
 //#include "oogabooga/examples/text_rendering.c"
+=======
+// #include "oogabooga/examples/text_rendering.c"
+>>>>>>> e6514874694327125c64704f27e560b7a40c4d41
 // #include "oogabooga/examples/custom_logger.c"
 // #include "oogabooga/examples/renderer_stress_test.c"
 // #include "oogabooga/examples/tile_game.c"
@@ -44,6 +48,9 @@ typedef struct Context_Extra {
 // #include "oogabooga/examples/custom_shader.c"
 // #include "oogabooga/examples/growing_array_example.c"
 // #include "oogabooga/examples/input_example.c"
+#include "oogabooga/examples/sprite_animation.c"
+
+// #include "oogabooga/examples/sanity_tests.c"
 
 // This is where you swap in your own project!
 // #include "entry_yourepicgamename.c"
